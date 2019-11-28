@@ -1,0 +1,16 @@
+
+
+ID Number: 18115
+Name: Nguyen Huynh Phuong Thanh
+Pass: 654321
+Balance: 0
+
+ID Number: 18158
+Name: Nguyen Giang Ngoc Tram
+Pass: 654321
+Balance: 700000
+
+ID Number: 18101
+Name: Le Vo Diem Hang
+Pass: 654321
+Balance: 1000000

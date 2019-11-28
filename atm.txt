@@ -1,0 +1,5 @@
+ATM ID: ATM1
+Bill 500k: 10
+Bill 200k: 10
+Bill 100k: 5
+Bill 50k: 30
